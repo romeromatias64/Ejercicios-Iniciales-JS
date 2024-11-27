@@ -3,12 +3,14 @@
 //  • Modifica el nombre de la 2da película del array por una nueva.
 //  • Muestra el array actualizado por consola.
 
-const miListaDePendientes = ["Fight Club","Breaking Bad","Hunter x Hunter", "Good Fellas"]
-
-console.log(miListaDePendientes)
-
-miListaDePendientes.push("La Jaula")
-
-miListaDePendientes[1] = "Kill Bill"
-
-console.log(miListaDePendientes)
+function pendientes() {
+    const miListaDePendientes = ["Fight Club","Breaking Bad","Hunter x Hunter", "Good Fellas"]
+    
+    console.log(miListaDePendientes)
+    
+    miListaDePendientes.push("Unglorious Bastards")
+    
+    miListaDePendientes[1] = "Kill Bill"
+    
+    console.log(miListaDePendientes)
+}

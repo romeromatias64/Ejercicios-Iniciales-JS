@@ -1,1 +1,0 @@
-// 3. Solicita al usuario dos números y una operación (+, -, *, /) usando prompt. Muestra el resultado de la operación en un alert.

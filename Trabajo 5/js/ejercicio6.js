@@ -9,5 +9,3 @@ function calcularPrecioTotal() {
 
     alert(`El precio total del producto es AR$${precioTotal}.`)
 }
-
-calcularPrecioTotal()

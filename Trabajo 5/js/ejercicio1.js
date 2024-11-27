@@ -8,4 +8,3 @@ function calcularRectangulo() {
     console.log(`El area del rectangulo ingresado es de ${area} centimetros cuadrados`)
 }
 
-calcularRectangulo()
